@@ -1,0 +1,31 @@
+.container{
+    width: 700px;
+    margin: 0 auto;
+}
+.satu{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: #39b543;
+    margin-top: 50px;
+    border-image-source: url("../tugasCSS/gmb/hearts.png");
+    border-image-width: 20px;
+    border-image-slice: 20 22;
+    border-image-repeat: round;
+    border-image-outset: 20px;
+    box-shadow: 30px 30px;
+}
+
+.dua{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: #0000ff;
+    margin-top: 50px;
+    float: left;
+    border-image-source: url("../tugasCSS/gmb/border1.png");
+    border-image-width: 30px;
+    border-image-slice: 33;
+    border-image-repeat: repeat;
+    
+}
